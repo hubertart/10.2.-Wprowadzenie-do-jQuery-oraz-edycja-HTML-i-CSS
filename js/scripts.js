@@ -1,5 +1,4 @@
 var span = $('span');
-span.each(function (index, element) {});
 
 span.each(function (index, element) {
     if (index % 2 == 0) {
